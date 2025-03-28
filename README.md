@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 
@@ -46,3 +47,6 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+=======
+# job-finder-APP
+>>>>>>> ec0a45fd914bf9c1b41268610d32669251b70c58
