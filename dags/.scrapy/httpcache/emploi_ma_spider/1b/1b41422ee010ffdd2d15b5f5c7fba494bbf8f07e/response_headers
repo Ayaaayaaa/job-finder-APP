@@ -1,0 +1,20 @@
+Date: Thu, 27 Mar 2025 15:01:41 GMT
+Content-Type: text/html; charset=utf-8
+X-Drupal-Cache: MISS
+Content-Language: fr
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Link: <https://www.emploi.ma/recherche-jobs-maroc>; rel="canonical",<https://www.emploi.ma/recherche-jobs-maroc>; rel="shortlink",<https://www.emploi.ma/recherche-jobs-maroc>; rel="canonical",<https://www.emploi.ma/recherche-jobs-maroc>; rel="shortlink"
+Cache-Control: public, max-age=0
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+Set-Cookie: SSESSe0ec026005199e07b89b26bb081a9ef6=7Z_J0QV8K1x7nM9Xu4xYYef3jXqazlRKd176J8wWWCs; expires=Fri, 28-Mar-2025 15:01:41 GMT; Max-Age=86400; path=/; domain=.www.emploi.ma; secure; HttpOnly
+Last-Modified: Thu, 27 Mar 2025 15:01:37 GMT
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=dycNvHX%2Bv0hn%2BYTnkl2NGSC5exfeiOFVNYe%2FJT6%2FziI3rZwH1%2FBN6zNd4wQRPQLMC8SYbf51SvynnXtO2pUZRsUK1p3Pvwt2QTXrcjYzRIQIFOlma3IzvIyRSXq0ZT93"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 926fc39eca25cfc6-MAD
+Content-Encoding: br
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=50446&min_rtt=49159&rtt_var=21009&sent=5&recv=5&lost=0&retrans=0&sent_bytes=2820&recv_bytes=1043&delivery_rate=69630&cwnd=252&unsent_bytes=0&cid=bfe4cea334912bdf&ts=3477&x=0"
